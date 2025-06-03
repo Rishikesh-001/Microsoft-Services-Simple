@@ -4,6 +4,11 @@ This is a simple website that provides quick access to important official Micros
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Live Website](https://rishikesh-001.github.io/Microsoft-Services-Simple/) 
+
+
 ## 🔗 Microsoft Resources Included
 
 - [Microsoft Learn](https://learn.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_465512)
